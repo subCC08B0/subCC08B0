@@ -8,7 +8,7 @@
 
 **C++ · x86_64 Assembly · Reverse Engineering**
 
-<sub>Somewhere in EU · still focusing.</sub>
+<sub>🇰🇷 KR · @DFMX · still focusing.</sub>
 
 ---
 
@@ -25,8 +25,7 @@
 
 ### 📊  Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=subCC08B0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subCC08B0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subCC08B0&theme=tokyo-night&hide_border=true&area=true" />
 
 <br/>
 
@@ -35,9 +34,5 @@
 ---
 
 <sub><i>"closer to the CPU, further from the framework."</i></sub>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=subCC08B0&color=00FF41&style=flat)
 
 </div>

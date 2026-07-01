@@ -1,4 +1,3 @@
-### ~/subCC08B0
 
 ```console
 $ whoami

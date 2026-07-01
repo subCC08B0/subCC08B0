@@ -14,5 +14,6 @@ $ cat ~/.bio
 $ uptime
 still focusing.
 
-$ _
+$ contact
+Discord - shu_proof
 ```
